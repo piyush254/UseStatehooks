@@ -7,7 +7,7 @@ function App() {
   // let foodItems = [];
   return (
     <>
-      <h1>Healthy Food</h1>
+      <h1 className="foodheading">Healthy Food</h1>
       <FoodItems items = {foodItems}></FoodItems>
       <Errormessage items = {foodItems}></Errormessage>
     </>

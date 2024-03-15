@@ -1,0 +1,12 @@
+.kg-item{
+  font-weight: 800;
+  background-color: khaki;
+  margin: 1px 2px;
+  
+}
+
+.kg-span{
+  color: orange;
+  background-color: rgb(213, 208, 161);
+  border-radius: 3px;
+}
