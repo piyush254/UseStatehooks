@@ -13,7 +13,7 @@ const Item = ({ foodItems, itempurchase }) => {
         type="button"
         className={`${styles["kg-btn"]} btn btn-success`}
       >
-        Success
+        Buy
       </button>
     </li>
   );

@@ -6,7 +6,7 @@ const FoodItems = ({ items }) => {
         <Item
           key={item}
           foodItems={item}
-          itempurchase={() => console.log(`${item} purchase`)}
+          itempurchase={() => alert(`${item} purchase`)}
         ></Item>
       ))}
     </ul>
