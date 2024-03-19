@@ -1,4 +1,14 @@
-.foodheading{
-  font-weight: 900;
-  color: rgb(132, 210, 124);
+.foodheading {
+  font-weight: 700;
+  color: brown;
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin: 15px;
+  padding: 15px;
+  /* background-color: gray; */
+}
+.input-div{
+  display: flex;
 }

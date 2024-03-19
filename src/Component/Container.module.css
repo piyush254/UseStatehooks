@@ -1,0 +1,14 @@
+.container{
+  border: 1px solid black;
+  margin: 0.9375rem;
+  width: 50%;
+  border-radius: 5px;
+  min-width: 18.75rem;
+}
+
+.foodinput{
+  width: 97%;
+  border-radius: 0.3125rem;
+  margin: 5px 10px;
+  padding: 0.625rem;
+}
